@@ -5,8 +5,8 @@
 
  ### Installation 
   To play this game, you will need Python 3. You can install the necessary libraries with the following commands:
-  - pip install pygame
-  - pip install Pillow
+  - `pip install pygame`
+  - `pip install Pillow`
 
 ### Controls 
 - use the up arrow / 'space' key to move up 
